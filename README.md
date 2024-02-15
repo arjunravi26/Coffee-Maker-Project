@@ -1,5 +1,8 @@
 Coffee Maker Project
-Introduction
+
+
+Introduction:
+
 This Python project models a coffee maker machine that allows users to place orders for various coffee drinks. The system tracks available resources, processes orders, and handles payments. It consists of three main components: CoffeeMaker, Menu, and MoneyMachine.
 
 Components
@@ -19,4 +22,6 @@ Usage
 1. Run main.py
 Execute the main script to interact with the coffee maker.
 Choose drinks from the menu, view reports, and turn off the machine.
+
+
 $ python main.py
